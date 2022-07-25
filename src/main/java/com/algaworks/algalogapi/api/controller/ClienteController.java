@@ -1,4 +1,4 @@
-package com.algaworks.algalogapi.controller;
+package com.algaworks.algalogapi.api.controller;
 
 import java.util.List;
 
