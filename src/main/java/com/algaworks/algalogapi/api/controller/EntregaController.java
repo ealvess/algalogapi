@@ -20,6 +20,7 @@ import com.algaworks.algalogapi.api.model.EntregaModel;
 import com.algaworks.algalogapi.api.model.input.EntregaInput;
 import com.algaworks.algalogapi.domain.model.Entrega;
 import com.algaworks.algalogapi.domain.repository.EntregaRepository;
+import com.algaworks.algalogapi.domain.service.FinalizacaoEntregaService;
 import com.algaworks.algalogapi.domain.service.SolicitacaoEntregaService;
 
 import lombok.AllArgsConstructor;
